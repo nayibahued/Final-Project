@@ -6,3 +6,7 @@ One of the most remarkable details of this project is that it updates week to we
 ## Predictions: Poisson vs Bet365
 
 The goal of the project was to determine with ML models wich way was the best to accuretely predict football matches, one model is fed with the Poisson distribution, the other one takes into account the odds given by the famous betting site. The results are shown in the code named pro_final.ipynb, and it's also synthesized and presented on a PowerPoint file.
+
+## Poisson Distribution on Upcoming Games
+
+In the Poisson_predictor jupyter notebook, we have a very interesting tool which updates every weekend the upcoming matches and automatically calculates with some functions a final dataframe containing the poisson distribution predictions of every upcoming game from the mentiones European Legaues.
